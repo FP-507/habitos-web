@@ -1,0 +1,11 @@
+{
+  "name": "habitos-web",
+  "version": "1.0.0",
+  "description": "Registro de hábitos con rachas y mapa de calor, en JavaScript sin frameworks",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/",
+    "start": "npx --yes serve@14.2.4 ."
+  }
+}
