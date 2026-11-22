@@ -4,7 +4,7 @@ App web para registrar hábitos diarios: marca los días que cumples, mira tu ra
 
 ![tests](https://github.com/FP-507/habitos-web/actions/workflows/tests.yml/badge.svg)
 
-**Demo:** <https://fp-507.github.io/habitos-web/> (se activa al publicar el repo con GitHub Pages)
+**[Ver la demo →](https://fp-507.github.io/habitos-web/)** · Notas para retomar el proyecto: [DESARROLLO.md](DESARROLLO.md)
 
 ## Funciones
 
