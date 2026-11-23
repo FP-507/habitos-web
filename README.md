@@ -6,6 +6,10 @@ App web para registrar hábitos diarios: marca los días que cumples, mira tu ra
 
 **[Ver la demo →](https://fp-507.github.io/habitos-web/)** · Notas para retomar el proyecto: [DESARROLLO.md](DESARROLLO.md)
 
+![Racha: se agregan dos hábitos y se marcan días, con la racha y el mapa de calor actualizándose](media/demo.gif)
+
+*Agregar hábitos y marcar días: la racha, el porcentaje y el mapa de calor se actualizan al momento.*
+
 ## Funciones
 
 - Agregar hábitos con nombre y color (no permite nombres repetidos).
